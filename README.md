@@ -2,6 +2,7 @@
 Numerical Methods
 
 Programul folosit: Octave
+
 Cerinta 1
 Functia Iterative se deschide cu citirea corespunzatoare a datelor dintr-un fisier. Citesc linie cu linie, urmand apoi sa convertesc tipul variabilelor din string in tip numeric. Construiesc matricea de adiacenta A, respectiv vectorul de link-uri L. Conform formulelor de obtinere a PageRank-ului, ma folosesc de un while care se opreste cand norma de diferenta celor doi vectori(R si R vechi) este mai mica decat eps (eroarea data).
 
